@@ -1,0 +1,3 @@
+import excel file to R studio
+boxplot(dataname$colname~dataname$clusters.colname,main = "titel" , xlab = "xlabtitel" , ylab = "ylabtitel" , 
+ylim = c(0,10) , col = c("red1","blue","green") , las = 1 )
